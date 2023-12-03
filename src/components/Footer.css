@@ -1,0 +1,15 @@
+.container-footer {
+    width: 90%;
+    margin: 1rem auto;
+    border: 1px solid silver;
+}
+.container-footer form {
+    margin: 1rem;
+}
+.container-footer form table {
+    width: 100%;
+}
+.container-footer td, th {
+    text-align: start;
+    padding: 5px;
+}

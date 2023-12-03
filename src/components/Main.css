@@ -1,0 +1,33 @@
+.container-main {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    width: 90%;
+    border: 1px solid silver;
+    border-radius: 5px;
+    margin: 0 auto;
+}
+.title {
+    width: 90%;
+    min-height: 50px;
+    margin: 1.5rem auto 0;
+    text-align: start;
+    font-size: 15px;
+}
+.avaliacoes {
+    width: 25%;
+    border-top: 1px solid silver;
+}
+.graphic {
+    width: 60%;
+    margin-left: 5%;
+    transform: translateY(-30px);
+}
+.info-avaliacoes ul {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+}
+.info-avaliacoes ul li p {
+    text-decoration: none;
+}

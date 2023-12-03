@@ -1,0 +1,8 @@
+container-star {
+  list-style-type: none;
+}
+.container-star li {
+  border-bottom: 1px solid silver;
+  padding: 0.6rem;
+  text-align: start;
+}

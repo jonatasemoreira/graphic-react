@@ -1,0 +1,18 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+body {
+  text-align: center;
+  box-sizing: border-box;
+  font-family: 'Open Sans', sans-serif;
+}
+li {
+  list-style-type: none;
+}
+.silver-star {
+  color: #696464;
+}
+.yellow-star {
+  color: #ffc007;
+}

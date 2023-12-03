@@ -1,0 +1,33 @@
+.container-header {
+    width: 90%;
+    margin: 0 auto;
+    padding: 0 0.5rem 1rem 0;
+}
+.title-header {
+    text-align: start;
+}
+.title-header h1 {
+    margin: 1rem auto;
+    font-size: 25px;
+}
+.filter {
+    display: flex;
+}
+.filter label {
+    text-align: start;
+}
+#unidades, 
+#profissionais, 
+#periodo {
+    display: flex;
+    padding: 0.5rem 6rem;
+    border-radius: 5px;
+    outline: 0;
+    border: 1px solid silver;
+    background-color: transparent;
+    margin: 0.2rem auto 0;
+    font-size: 15px;
+}
+.espacamento {
+    margin-left: 2rem;
+}
